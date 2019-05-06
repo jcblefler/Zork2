@@ -7,6 +7,8 @@ public class Room {
     private String roomName;
     private String roomContent;
     private String direction;
+    private boolean goblin = false;
+    private boolean locked = false;
 
     public Room() {
 
@@ -59,5 +61,21 @@ public class Room {
 
     public void setDirection(String direction) {
         this.direction = direction;
+    }
+
+    public boolean isGoblin() {
+        return goblin;
+    }
+
+    public void setGoblin(boolean goblin) {
+        this.goblin = goblin;
+    }
+
+    public boolean isLocked() {
+        return locked;
+    }
+
+    public void setLocked(boolean locked) {
+        this.locked = locked;
     }
 }
