@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98eb1a74-2aec-4639-b798-eb3d932e0dfc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zork2/com/company/House.class" afterPath="$PROJECT_DIR$/out/production/Zork2/com/company/House.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Zork2/com/company/Room.class" afterPath="$PROJECT_DIR$/out/production/Zork2/com/company/Room.class" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/House.java" afterPath="$PROJECT_DIR$/src/com/company/House.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Room.java" afterPath="$PROJECT_DIR$/src/com/company/Room.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Hangman.java" afterPath="$PROJECT_DIR$/src/com/company/Hangman.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="House.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="House.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/House.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="153">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#gameEnd#0;class#House#0" expanded="false" />
@@ -52,7 +49,7 @@
       <file leaf-file-name="Magic8Ball.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Magic8Ball.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
+            <state relative-caret-position="75">
               <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,15 +59,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hangman.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Hangman.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Hangman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1741">
-              <caret line="108" column="27" lean-forward="false" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+            <state relative-caret-position="500">
+              <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#244#252#0" expanded="true" />
-                <element signature="e#1059#1067#0" expanded="true" />
+                <element signature="e#1941#1949#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,9 +134,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Room.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Hangman.java" />
         <option value="$PROJECT_DIR$/src/com/company/Magic8Ball.java" />
         <option value="$PROJECT_DIR$/src/com/company/House.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Hangman.java" />
       </list>
     </option>
   </component>
@@ -268,12 +265,12 @@
       <updated>1556644499381</updated>
       <workItem from="1556644508601" duration="8236000" />
       <workItem from="1556716442435" duration="18814000" />
-      <workItem from="1557149781012" duration="9319000" />
+      <workItem from="1557149781012" duration="11525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36369000" />
+    <option name="totallyTimeSpent" value="38575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -486,14 +483,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Hangman.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/House.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1741">
-          <caret line="108" column="27" lean-forward="false" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+        <state relative-caret-position="153">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#244#252#0" expanded="true" />
-            <element signature="e#1059#1067#0" expanded="true" />
+            <element signature="method#gameEnd#0;class#House#0" expanded="false" />
+            <element signature="e#14805#14806#0" expanded="true" />
+            <element signature="e#14839#14840#0" expanded="true" />
+            <element signature="e#14893#14894#0" expanded="true" />
+            <element signature="e#14939#14940#0" expanded="true" />
+            <element signature="e#14966#14967#0" expanded="true" />
+            <element signature="e#14992#14993#0" expanded="true" />
+            <element signature="e#15027#15028#0" expanded="true" />
+            <element signature="e#15057#15058#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Magic8Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#396#404#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -506,32 +521,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Magic8Ball.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Hangman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        <state relative-caret-position="500">
+          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#396#404#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#gameEnd#0;class#House#0" expanded="false" />
-            <element signature="e#14805#14806#0" expanded="true" />
-            <element signature="e#14839#14840#0" expanded="true" />
-            <element signature="e#14893#14894#0" expanded="true" />
-            <element signature="e#14939#14940#0" expanded="true" />
-            <element signature="e#14966#14967#0" expanded="true" />
-            <element signature="e#14992#14993#0" expanded="true" />
-            <element signature="e#15027#15028#0" expanded="true" />
-            <element signature="e#15057#15058#0" expanded="true" />
+            <element signature="e#244#252#0" expanded="true" />
+            <element signature="e#1941#1949#0" expanded="true" />
           </folding>
         </state>
       </provider>

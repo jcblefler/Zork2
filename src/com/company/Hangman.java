@@ -20,6 +20,35 @@ public class Hangman {
         words.add("insurance");
         words.add("pancakes");
         words.add("stream");
+        words.add("envelope");
+        words.add("shoe");
+        words.add("cellphone");
+        words.add("handbag");
+        words.add("accordion");
+        words.add("suboptimal");
+        words.add("lemonade");
+        words.add("guarantee");
+        words.add("computer");
+        words.add("coffee");
+        words.add("mouse");
+        words.add("assignment");
+        words.add("college");
+        words.add("keyboard");
+        words.add("information");
+        words.add("technology");
+        words.add("mitochondria");
+        words.add("epidermis");
+        words.add("paranormal");
+        words.add("coral");
+        words.add("anemone");
+        words.add("urchin");
+        words.add("quercus");
+        words.add("lupin");
+        words.add("ursus");
+        words.add("education");
+        words.add("experience");
+        words.add("waffles");
+
 
         int ranNum = random.nextInt(words.size());
         return words.get(ranNum);
